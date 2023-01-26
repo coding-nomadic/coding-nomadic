@@ -1,5 +1,12 @@
 👋 Hi, I’m @tendawa123
-👀 I’m interested in building Java backend and apps.
-🌱 I’m currently learning Angualar for UI and reactive programming
-💞️ I’m looking to collaborate on app
-📫 How to reach me ...
+
+👀 I’m interested in building Java Backend and Apps.
+
+🌱 I’m currently learning Angular for UI and Reactive programming
+
+💞️ I’m looking to collaborate on open source and personal projects for fun.
+
+📫 Reach me @
+```
+https://www.linkedin.com/in/tenzin-dawa-b9906076/
+```
