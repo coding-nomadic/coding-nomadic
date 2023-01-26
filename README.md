@@ -1,6 +1,6 @@
 👋 Hi, I’m @tendawa123
 
-👀 I’m interested in building Java Backend and Apps.
+👀 I’m interested in building Java Backend Services and Apps with python.
 
 🌱 I’m currently learning Angular for UI and Reactive programming
 
