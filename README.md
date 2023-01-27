@@ -1,4 +1,4 @@
-👋 Hi, I’m @tendawa123
+👋 Hi, I’m @tendawa-glitch
 
 👀 I’m interested in building Java Backend Services and Apps with python.
 
