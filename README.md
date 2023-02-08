@@ -2,7 +2,7 @@
 
 👀 I’m interested in building java backend services and scripting with python.
 
-🌱 I’m currently learning kubernetes, angular and reactive programming in java
+🌱 I’m currently learning kubernetes, angular and reactive programming
 
 💞️ I’m looking to collaborate on open source and personal projects for fun.
 
