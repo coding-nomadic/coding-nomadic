@@ -1,8 +1,8 @@
 👋 Hi, I’m @tendawa-glitch
 
-👀 I’m interested in building java backend services and scripting with python.
+👀 I’m interested in building modern java application development in the age of cloud and python for automating stuffs.
 
-🌱 I’m currently learning kubernetes, angular and reactive programming
+🌱 I’m currently learning and exploring Kubernetes, Angular and Reactive Programming
 
 💞️ I’m looking to collaborate on open source and personal projects for fun.
 
