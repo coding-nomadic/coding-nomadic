@@ -1,6 +1,6 @@
 👋 Hi, I’m @tendawa-glitch
 
-👀 I’m interested in building modern java application development in the age of cloud and python for automating stuffs.
+👀 I’m interested in building modern java application development in the age of cloud and python for automation.
 
 🌱 I’m currently learning and exploring Kubernetes, Angular and Reactive Programming
 
