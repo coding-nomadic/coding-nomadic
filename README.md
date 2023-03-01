@@ -1,4 +1,4 @@
-👋 Hi, I’m @tendawa-glitch
+👋 Hi, I’m @tenzin-dev
 
 👀 I’m interested in building modern java application development in the age of cloud and python for automation.
 
