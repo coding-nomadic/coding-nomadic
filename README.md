@@ -2,7 +2,7 @@
 
 👀 I’m interested in building modern java application development in the age of cloud and python for automation.
 
-🌱 I’m currently learning and exploring Kubernetes, Angular and Reactive Programming
+🌱 I’m currently learning and exploring Kubernetes, React JS and Reactive Programming
 
 💞️ I’m looking to collaborate on open source and personal projects for fun.
 
