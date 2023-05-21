@@ -1,4 +1,4 @@
-👋 Hi, I’m @tenzin
+👋 Hi, I’m Tenzin
 
 👀 I’m interested in building modern java application development in the age of cloud and python for automation.
 
