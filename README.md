@@ -1,10 +1,19 @@
-👋 Hi, I’m Tenzin
+<h2> Hey there! I'm Tenzin. &#128075;</h2>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/52356809/167303994-26206bdf-a727-4682-8cd4-ab9dea6cb402.gif" width="500"/>
 
-👀 I’m interested in building modern java application development in the age of cloud and python for automation.
+<h3> 👨🏻‍💻 About Me </h3>
 
-🌱 I’m currently learning and exploring Kubernetes, React JS and Reactive Programming
+- 🔭 &nbsp; I’m currently learning Web development
+- 🤔 &nbsp; I have a peculiar knack for Optimization and prediction problems.
+- 🎓 &nbsp; Studying Computer Science and Statistics.
+- 💼 &nbsp; Android developer and front-end web developer.
 
-💞️ I’m looking to collaborate on open source and personal projects for fun.
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | C | Java | Javascript | Typescript
+- 🌐 &nbsp; Android | Angular | Web | Machine Learning
+- 🛢 &nbsp; Firebase 
+- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Git
 
 
 
