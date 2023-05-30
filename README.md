@@ -3,15 +3,15 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Web development
+- 🔭 &nbsp; I’m currently a senior java backend developer
 - 🤔 &nbsp; I have a peculiar knack for Optimization and prediction problems.
-- 🎓 &nbsp; Studying Computer Science and Statistics.
-- 💼 &nbsp; Android developer and front-end web developer.
+- 🎓 &nbsp; Studied Computer Science and Engineering.
+- 💼 &nbsp; python developer and leaning React and Angular.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C | Java | Javascript | Typescript
-- 🌐 &nbsp; Android | Angular | Web | Machine Learning
+- 💻 &nbsp; Python | Java | SQL | HTML
+- 🌐 &nbsp; SpringBoot | Angular | Microservices | Reactive Programming
 - 🛢 &nbsp; Firebase 
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Git
 
