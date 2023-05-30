@@ -13,7 +13,7 @@
 - 💻 &nbsp; Python | Java | SQL | HTML
 - 🌐 &nbsp; SpringBoot | Angular | Microservices | Reactive Programming
 - 🛢 &nbsp; Firebase 
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Git
+- 🔧 &nbsp; STS | IntelliJ | PyCharm | Visual Studio code | Git
 
 
 
