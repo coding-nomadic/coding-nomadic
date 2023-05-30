@@ -3,16 +3,16 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently a senior java backend developer
+- 🔭 &nbsp; I’m currently a senior Java Backend Developer
 - 🤔 &nbsp; I have a peculiar knack for Optimization and prediction problems.
 - 🎓 &nbsp; Studied Computer Science and Engineering.
-- 💼 &nbsp; python developer and leaning React and Angular.
+- 💼 &nbsp; Python developer but learning React and Angular.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | SQL | HTML
-- 🌐 &nbsp; SpringBoot | Angular | Microservices | Reactive Programming
-- 🛢 &nbsp; Firebase 
+- 💻 &nbsp; Python | Java 8/11 | SQL | HTML
+- 🌐 &nbsp; SpringBoot | Rabbit MQ | | Microservices | Reactive Programming
+- 🛢 &nbsp; AWS | PCF | Docker 
 - 🔧 &nbsp; STS | IntelliJ | PyCharm | Visual Studio code | Git
 
 
