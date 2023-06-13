@@ -6,7 +6,7 @@
 - 🔭 &nbsp; I’m currently a senior Java Backend Developer
 - 🤔 &nbsp; I have a peculiar knack for Optimization and prediction problems.
 - 🎓 &nbsp; Studied Computer Science and Engineering.
-- 💼 &nbsp; Python developer but learning React and Angular.
+- 💼 &nbsp; Python developer but learning React JS and exploring k8s.
 
 <h3>🛠 Tech Stack</h3>
 
