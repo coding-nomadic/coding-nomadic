@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently a senior Java Backend Developer
+- 🔭 &nbsp; I’m currently a Senior Java Backend Developer
 - 🤔 &nbsp; I have a peculiar knack for Optimization and prediction problems.
 - 🎓 &nbsp; Studied Computer Science and Engineering.
 - 💼 &nbsp; Python developer but learning React JS and exploring k8s.
