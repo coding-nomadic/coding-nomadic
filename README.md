@@ -10,9 +10,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java 8/11 | SQL | HTML
+- 💻 &nbsp; Python | Java 8/11 | Javascript | SQL | HTML
 - 🌐 &nbsp; Spring | Hibernate| JPA | SpringBoot | Rabbit MQ | Microservices | Reactive Programming
-- 🛢 &nbsp; AWS | PCF | Docker 
+- 🛢 &nbsp; AWS | PCF |Heroku | Docker 
 - 🔧 &nbsp; STS | IntelliJ | PyCharm | Visual Studio code | Git
 
 
